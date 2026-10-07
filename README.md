@@ -9,8 +9,8 @@ you can download the already compiled mod from build/libs/ otherwise download or
 the vault GUI has buttons to change to a different vault. you can store items in any vault. the mod converts the items to json code and stores them in a config text file
 
 commands and usage:
-/pv
-/pv <number>
+/pv,
+/pv <number>,
 
-/pv <player> <number> (opens another players vault)
-/pv give              
+/pv <player> <number> (opens another players vault),
+/pv give,
